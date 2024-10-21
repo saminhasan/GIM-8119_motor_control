@@ -1,20 +1,5 @@
 #include "motctrl_prot.h"
 #include <stdbool.h>
-/**
-  ******************************************************************************
-  * @file    motctrl_prot.c
-  * @author  LYH, CyberBeast
-  * @brief   This file provides protocol implementation for CyberBeast motor control
-  *
-  ******************************************************************************
-  * @attention
-  *
-  * <h2><center>&copy; Copyright (c) 2022 CyberBeast.
-  * All rights reserved.</center></h2>
-  *
-  ******************************************************************************
-  *
-  */
 typedef enum {
   MOTCTRL_CMD_RESET_CONFIGURATION = 0x81,
   MOTCTRL_CMD_REFRESH_CONFIGURATION = 0x82,
