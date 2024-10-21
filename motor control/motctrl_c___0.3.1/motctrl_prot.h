@@ -1,18 +1,4 @@
-/**
-  ******************************************************************************
-  * @file    motctrl_prot.h
-  * @author  LYH, CyberBeast
-  * @brief   This file provides protocol implementation for CyberBeast motor control
-  *
-  ******************************************************************************
-  * @attention
-  *
-  * <h2><center>&copy; Copyright (c) 2022 CyberBeast.
-  * All rights reserved.</center></h2>
-  *
-  ******************************************************************************
-  *
-  */
+
 #ifndef _MOTCTRL_PROT_H__
 #define _MOTCTRL_PROT_H__
 #include <stdint.h>
